@@ -7,3 +7,8 @@ language processing (NLP) techniques. The system leverages FastAPI for web servi
 SQLite for lightweight data storage, and the TextRank algorithm for extractive summarization.
 This project demonstrates how data-driven approaches can be applied to real-world information
 streams, enabling users to consume concise summaries of complex news articles efficiently
+
+For Implement in Local Server/PC , follow the 'Project code structure & Requirements Commands'
+----------------------------------------------------------------------------------------------
+
+<img width="567" height="461" alt="Project Structure" src="https://github.com/user-attachments/assets/05c2719c-660e-427d-aaa2-e20d86781214" />
