@@ -11,4 +11,16 @@ streams, enabling users to consume concise summaries of complex news articles ef
 For Implement in Local Server/PC , follow the 'Project code structure & Requirements Commands'
 ----------------------------------------------------------------------------------------------
 
+Data-Driven-Online-News-Summarizer-Project code Structure;
+
 <img width="567" height="461" alt="Project Structure" src="https://github.com/user-attachments/assets/05c2719c-660e-427d-aaa2-e20d86781214" />
+
+
+
+
+Sample Predicted App Outputs;
+
+
+<img width="797" height="248" alt="Sample outputs of the app-summerizer-via title id" src="https://github.com/user-attachments/assets/db8f18f0-9dd2-49df-be87-0fa0e1ee48f0" />
+
+<img width="825" height="286" alt="Sample outputs of the app-summerizer" src="https://github.com/user-attachments/assets/ef78c2c5-2485-4364-a0e4-64130eee9d21" />
