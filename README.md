@@ -21,6 +21,6 @@ Data-Driven-Online-News-Summarizer-Project code Structure;
 Sample Predicted App Outputs;
 
 
-<img width="797" height="248" alt="Sample outputs of the app-summerizer-via title id" src="https://github.com/user-attachments/assets/db8f18f0-9dd2-49df-be87-0fa0e1ee48f0" />
-
 <img width="825" height="286" alt="Sample outputs of the app-summerizer" src="https://github.com/user-attachments/assets/ef78c2c5-2485-4364-a0e4-64130eee9d21" />
+
+<img width="797" height="248" alt="Sample outputs of the app-summerizer-via title id" src="https://github.com/user-attachments/assets/db8f18f0-9dd2-49df-be87-0fa0e1ee48f0" />
