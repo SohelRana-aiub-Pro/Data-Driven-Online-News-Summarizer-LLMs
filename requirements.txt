@@ -1,0 +1,13 @@
+#import os
+fastapi
+uvicorn
+feedparser
+sqlalchemy
+requests
+sumy
+
+
+
+#pip install -r requirements.txt
+
+#python -m uvicorn main:app --reload
